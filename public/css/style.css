@@ -1,0 +1,16 @@
+.rectanglerouge {
+    border: 2px solid red;
+    height: 100px;
+    width: 14%;
+    background-color: red;
+    text-align: center;
+    display: inline-block;
+}
+.rectanglerougespecial {
+    border: 2px solid red;
+    height: 100px;
+    width: 25%;
+    background-color: red;
+    text-align: center;
+    display: inline-block;
+}
